@@ -36,11 +36,16 @@ pip install datetime
 
 ## Usage
 
-Cd to the correct folder and run 'streamlit run pychain.py'. This will open a local host and from there the user can interact with the blockchain. 
+Cd to the correct folder and run 'streamlit run pychain.py'. This will open a local host and from there the user can interact with the blockchain. The user can input sender, receiver, and amount information, then validate the blockchain and recieve a confirmation in their terminal.
 ---
 
 ## Images
 
+![](Images/1.png)
+
+![](Images/2.png)
+
+![](Images/3.png)
 
 ---
 
